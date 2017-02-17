@@ -1,0 +1,25 @@
+
+#app {
+}
+
+h1 {
+    text-align: center;
+}
+.main > p {
+    width: 50%;
+    margin: 10px auto;
+}
+
+#core {
+    width: 150px;
+    text-align: right;
+    margin: 50px auto;
+}
+.answer-good {
+    background-color: #57dd41;
+}
+.answer-bad {
+    background-color: #F08080;
+}
+
+/*# sourceMappingURL=app.64c543509dee669792d9fda09c5f826a.css.map*/
